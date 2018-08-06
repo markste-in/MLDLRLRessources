@@ -16,9 +16,10 @@ If you know any good ML/DL ressources or see any broken links please submit a Pu
   - [Neural Networks by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
   - [Neural Stack Machine by. A. Trask](https://www.youtube.com/watch?v=3DeL7utEz_k&list=PLVI2jHBbGwX74UTvSUMGabKutZBe_FjEc)
 
-## Tutorials
+## Tutorials / Examples
   - [Set up an GPU instance for deep learning on AWS](https://medium.com/@rogerxujiang/setting-up-a-gpu-instance-for-deep-learning-on-aws-795343e16e44)
-
+  - [Kaggle](https://www.kaggle.com/explore-projects)
+    - [A Journey through Titanic](https://www.kaggle.com/omarelgabry/a-journey-through-titanic)
 ## Background / Understanding and Math
 ### Basics
   - [Beginner's Guide: Linear algebra cheat sheet for deep learning](http://yann.lecun.com/exdb/mnist/)
