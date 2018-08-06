@@ -1,23 +1,19 @@
 # MLDLRessources
 If you know any good ML/DL ressources or see any broken links please submit a Pull Request or write me to mail@markste.in
 
-## Deep learning courses and guides
+## Deep learning courses, guides and trainings
   - [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com )
   - [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu)
   - [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
   - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
   - [Hacker's guide to Neural Networks by A. Karpathy](https://karpathy.github.io/neuralnets/)
+  - [NVidia online self-paced trainings (non-free)](https://developer.nvidia.com/dli/onlinelabs)
 ## (e)Books
   - [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
   - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
   - [MIT Deep Learning by Ian Goodfellow, Y. Bengio and Aa. Courville](http://www.deeplearningbook.org/)
   - [Reinforcement Learning: An Introduction by R. S. Sutton and A. G. Barto](http://incompleteideas.net/book/the-book-2nd.html)
-
-## YouTube courses / ressources
-  - [Neural Networks by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-  - [Neural Stack Machine by. A. Trask](https://www.youtube.com/watch?v=3DeL7utEz_k&list=PLVI2jHBbGwX74UTvSUMGabKutZBe_FjEc)
-  - [Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-  - [Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+  - [Many different data science / DL / ML ebooks](https://github.com/GitEasonXu/Data-Science-books)
 
 ## Tutorials / Examples
   - [Set up an GPU instance for deep learning on AWS](https://medium.com/@rogerxujiang/setting-up-a-gpu-instance-for-deep-learning-on-aws-795343e16e44)
@@ -28,8 +24,19 @@ If you know any good ML/DL ressources or see any broken links please submit a Pu
     - [TensorFlow Examples by A. Damien](https://github.com/aymericdamien/TensorFlow-Examples)
     - [TensorFlow Playground](http://playground.tensorflow.org)
     - [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)
+    - [TensorFlow and deep learning without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/)
+    - [TensorFlow 101](https://www.youtube.com/watch?v=arl8O22aa6I)
+  - [Keras](https://keras.io/)
+    - [Getting Started with Keras](https://github.com/keras-team/keras)
+    - [Keras Examples](https://github.com/keras-team/keras/tree/master/examples)
   - [How to build an image recognition system using Keras and Tensorflow for a 1000 everyday object categories](https://deeplearningsandbox.com/how-to-build-an-image-recognition-system-using-keras-and-tensorflow-for-a-1000-everyday-object-559856e04699)
   - [ConvNetJS Javascript library for training Deep Learning models in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
+  - [StarCraft II RL Tutorial](http://chris-chris.ai/2017/08/30/pysc2-tutorial1/)
+  - [Variational Autoencoders on Celebrities](https://github.com/yzwxx/vae-celebA)
+  - [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
+  - [Two Days to a Demo with a Jetson TX1/TX2](https://developer.nvidia.com/embedded/twodaystoademo)
+  - [Fundamentals of Accelerated Computing with OpenACC](https://nvidia.qwiklab.com/quests/3)
+  - [Use your eyes and Deep Learning to command your computer](https://hackernoon.com/talk-to-you-computer-with-you-eyes-and-deep-learning-a-i-odyssey-part-2-7d3405ab8be1)
 ## Backgrounds / Writeups / Conference Talks and Math
 ### Basics or somewhat complicated
 #### General Topics
@@ -39,6 +46,12 @@ If you know any good ML/DL ressources or see any broken links please submit a Pu
   - [The Number of Hidden Layers](https://www.heatonresearch.com/2017/06/01/hidden-layers.html)
   - [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
   - [Precision, recall, sensitivity and specificity](https://uberpython.wordpress.com/2012/01/01/precision-recall-sensitivity-and-specificity/)
+  - [Reinforced Learning - Getting Started with Gym](https://gym.openai.com/docs/)
+  - [Visualizing Representations: Deep Learning and Human Beings](https://colah.github.io/posts/2015-01-Visualizing-Representations/)
+  - [Machine Learning with Chris](http://chris-chris.ai/)
+  - [Neural Networks by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+  - [Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+  - [Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 #### CNNs
   - [Transfer Learning using Keras](https://medium.com/@14prakash/transfer-learning-using-keras-d804b2e04ef8)
   - [Transfer Learning in TensorFlow on the Kaggle Rainforest competition](https://medium.com/@luckylwk/transfer-learning-in-tensorflow-on-the-kaggle-rainforest-competition-4e978fadb571)
@@ -46,6 +59,9 @@ If you know any good ML/DL ressources or see any broken links please submit a Pu
 #### Autoencoders
   - [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
   - [Variational Autoencoders Explained](http://kvfrans.com/variational-autoencoders-explained/)
+    - [Generate MNIST using a Variational Autoencoder](https://github.com/kvfrans/variational-autoencoder)
+  - [Intuitively Understanding Variational Autoencoders](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
+  - [Latent space visualization — Deep Learning bits](https://hackernoon.com/latent-space-visualization-deep-learning-bits-2-bd09a46920df)
 #### RNNs
   - [A Beginner's Guide to LSTMs](https://skymind.ai/wiki/lstm)
   - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -56,16 +72,20 @@ If you know any good ML/DL ressources or see any broken links please submit a Pu
   - [Ian Goodfellow, Research Scientist OpenAI : Generative Adversarial Networks (GANs)](https://www.youtube.com/watch?v=HN9NRhm9waY)
   - [DeepFakes and the technology behind it](https://www.alanzucconi.com/2018/03/14/understanding-the-technology-behind-deepfakes/)
   - [Generating Pokemon with a Generative Adversarial Network](https://www.youtube.com/watch?v=yz6dNf7X7SA)
+  - [Generative Adversarial Networks for Style Transfer ](https://www.youtube.com/watch?v=MgdAe-T8obE)
 ### Advanced and up to really complicated
   - [iamtrask blog](https://iamtrask.github.io)
     - [How to Code and Understand DeepMind's Neural Stack Machine](https://iamtrask.github.io/2016/02/25/deepminds-neural-stack-machine/)
+  - [Neural Stack Machine by. A. Trask](https://www.youtube.com/watch?v=3DeL7utEz_k&list=PLVI2jHBbGwX74UTvSUMGabKutZBe_FjEc)
   - [A Graphical Explanation of DeepMind’s Neural Stacks](http://machinaut.com/a-graphical-explanation-of-deepminds-neural-stacks/)
   - [Generative Adversarial Networks: An Overview](https://arxiv.org/abs/1710.07035)
   - [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533)
 
 ## Datasets
+  - [List of many! public datasets ](https://github.com/awesomedata/awesome-public-datasets)
   - [UCI Machine Learning Repos](https://archive.ics.uci.edu/ml/datasets.html)
   - [Kaggle Datasets](https://www.kaggle.com/datasets)
+  - [DataSF Open Data](https://datasf.org/opendata/)
 ### Classification and Class Recognition
   - [MNIST database of handwritten digits](http://yann.lecun.com/exdb/mnist/)
   - [CIFAR-10 and CIFAR-100 dataset of labeled tiny images](https://www.cs.toronto.edu/~kriz/cifar.html)
