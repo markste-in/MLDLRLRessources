@@ -1,4 +1,4 @@
-# MLDLRessources
+# Machine Learning and Deep Learning Ressources
 If you know any good ML/DL ressources or see any broken links please submit a Pull Request or write me to mail@markste.in
 
 ## Deep learning courses, guides and trainings
@@ -94,7 +94,7 @@ If you know any good ML/DL ressources or see any broken links please submit a Pu
   - [UCI Machine Learning Repos](https://archive.ics.uci.edu/ml/datasets.html)
   - [Kaggle Datasets](https://www.kaggle.com/datasets)
   - [DataSF Open Data](https://datasf.org/opendata/)
-### Classification and Class Recognition
+### Classification and Class Recognition Datasets
   - [Open Images Dataset with Bounding Boxes on 600 categories and 1.7 million Images](https://storage.googleapis.com/openimages/web/index.html)
   - [MNIST database of handwritten digits](http://yann.lecun.com/exdb/mnist/)
   - [CIFAR-10 and CIFAR-100 dataset of labeled tiny images](https://www.cs.toronto.edu/~kriz/cifar.html)
