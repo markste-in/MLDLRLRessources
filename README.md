@@ -8,6 +8,11 @@ If you know any good ML/DL ressources or see any broken links please submit a Pu
   - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
   - [Hacker's guide to Neural Networks by A. Karpathy](https://karpathy.github.io/neuralnets/)
   - [NVidia online self-paced trainings (non-free)](https://developer.nvidia.com/dli/onlinelabs)
+  - [Neural Networks and Machine Learning by The Coding Train](https://www.youtube.com/user/shiffman/playlists?shelf_id=16&sort=dd&view=50)
+  - [Free AI Course by fast.ai](http://course.fast.ai/)
+  - [Intro to Deep Learning by Siraj Raval](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
+  - [Coursera Machine Learning *Not Free](https://www.coursera.org/learn/machine-learning)
+  - [Coursera Deep Learning *Not Free](https://www.coursera.org/specializations/deep-learning)
 ## (e)Books
   - [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
   - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
@@ -26,6 +31,7 @@ If you know any good ML/DL ressources or see any broken links please submit a Pu
     - [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)
     - [TensorFlow and deep learning without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/)
     - [TensorFlow 101](https://www.youtube.com/watch?v=arl8O22aa6I)
+    - [TensorBoard: Visualizing Learning](https://www.tensorflow.org/guide/summaries_and_tensorboard)
   - [Keras](https://keras.io/)
     - [Getting Started with Keras](https://github.com/keras-team/keras)
     - [Keras Examples](https://github.com/keras-team/keras/tree/master/examples)
@@ -37,6 +43,7 @@ If you know any good ML/DL ressources or see any broken links please submit a Pu
   - [Two Days to a Demo with a Jetson TX1/TX2](https://developer.nvidia.com/embedded/twodaystoademo)
   - [Fundamentals of Accelerated Computing with OpenACC](https://nvidia.qwiklab.com/quests/3)
   - [Use your eyes and Deep Learning to command your computer](https://hackernoon.com/talk-to-you-computer-with-you-eyes-and-deep-learning-a-i-odyssey-part-2-7d3405ab8be1)
+  - [Several Tutorials and Examples by Siraj Raval](https://github.com/llSourcell)
 ## Backgrounds / Writeups / Conference Talks and Math
 ### Basics or somewhat complicated
 #### General Topics
@@ -56,6 +63,7 @@ If you know any good ML/DL ressources or see any broken links please submit a Pu
   - [Transfer Learning using Keras](https://medium.com/@14prakash/transfer-learning-using-keras-d804b2e04ef8)
   - [Transfer Learning in TensorFlow on the Kaggle Rainforest competition](https://medium.com/@luckylwk/transfer-learning-in-tensorflow-on-the-kaggle-rainforest-competition-4e978fadb571)
   - [CNN  Architectures](https://medium.com/@RaghavPrabhu/cnn-architectures-lenet-alexnet-vgg-googlenet-and-resnet-7c81c017b848)
+  - [Lucid - collection of infrastructure and tools for research in neural network interpretability](https://github.com/tensorflow/lucid)
 #### Autoencoders
   - [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
   - [Variational Autoencoders Explained](http://kvfrans.com/variational-autoencoders-explained/)
@@ -87,6 +95,7 @@ If you know any good ML/DL ressources or see any broken links please submit a Pu
   - [Kaggle Datasets](https://www.kaggle.com/datasets)
   - [DataSF Open Data](https://datasf.org/opendata/)
 ### Classification and Class Recognition
+  - [Open Images Dataset with Bounding Boxes on 600 categories and 1.7 million Images](https://storage.googleapis.com/openimages/web/index.html)
   - [MNIST database of handwritten digits](http://yann.lecun.com/exdb/mnist/)
   - [CIFAR-10 and CIFAR-100 dataset of labeled tiny images](https://www.cs.toronto.edu/~kriz/cifar.html)
   - [STL-10 image recognition dataset](https://cs.stanford.edu/~acoates/stl10/)
@@ -103,12 +112,23 @@ If you know any good ML/DL ressources or see any broken links please submit a Pu
   - [Machine Learning vs. Physically Unclonable Function by Fabian Faessler](http://www.smrrd.de/br-puf-analysis.html)
   - [Learning from Scratch with AlphaGo Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/)
 
+## Cheat Sheets
+  - [Collection of very well made Cheet Sheets on all Topics ranging from Numpy to Keras](https://www.datacamp.com/community/data-science-cheatsheets)
+  - [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
+  - [Machine Learning Cheet Sheets by A. Jain](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+  - [Machine learning algorithm cheat sheet for Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-cheat-sheet)
+  - [Linear Algebra in 4 Pages](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf)
+  - [Outline of Machine Learning](https://en.wikipedia.org/wiki/Outline_of_machine_learning)
+  - [Pro/Cons of different Algorithms](https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-friend)
+  - [Cheat Sheets for Basic Python Libs like Pandas or Numpy](http://datasciencefree.com/cheatsheets.html)
+  - [Collection on different ML/AI Libs](https://github.com/kailashahirwar/cheatsheets-ai)
 ## Conferences
   - [GTC - GPU Technology Conference](https://www.nvidia.com/en-us/gtc/)
   - [Deep Lerning Summit London 2018](https://www.re-work.co/events/deep-learning-summit-london-2018)
   - [O'Reilly AI Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ca)
   - [NIPS 2018 - Montreal](https://nips.cc/)
   - [Machine Learning Conferences in 2018](https://blog.standuply.com/200-ai-ml-conferences-in-2018-eec7d0a50bcf)
+  - [Tensorflow Summit](https://www.tensorflow.org/dev-summit/)
 
 ## Research Papers / Publications
   - [Cornell University Library](https://arxiv.org/list/cs/recent)
