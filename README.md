@@ -1,5 +1,5 @@
-# Machine Learning and Deep Learning Ressources
-If you know any good ML/DL ressources or see any broken links please submit a Pull Request or write me to mail@markste.in
+# Machine Learning, Deep Learning and Reinforcement Learning Ressources
+If you know any good ML/DL/RL resources or see any broken links please submit a Pull Request or write me to mail@markste.in
 
 ## Deep learning courses, guides and trainings
   - [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com )
@@ -46,6 +46,7 @@ If you know any good ML/DL ressources or see any broken links please submit a Pu
   - [Fundamentals of Accelerated Computing with OpenACC](https://nvidia.qwiklab.com/quests/3)
   - [Use your eyes and Deep Learning to command your computer](https://hackernoon.com/talk-to-you-computer-with-you-eyes-and-deep-learning-a-i-odyssey-part-2-7d3405ab8be1)
   - [Several Tutorials and Examples by Siraj Raval](https://github.com/llSourcell)
+  - [Dynamic Programming Problems](https://www.geeksforgeeks.org/dynamic-programming/)
 ## Backgrounds / Writeups / Conference Talks and Math
 ### Basics or somewhat complicated
 #### General Topics
