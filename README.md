@@ -5,6 +5,7 @@ If you know any good ML/DL ressources or see any broken links please submit a Pu
   - [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com )
   - [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu)
   - [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
+  - [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0)
   - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
   - [Hacker's guide to Neural Networks by A. Karpathy](https://karpathy.github.io/neuralnets/)
   - [NVidia online self-paced trainings (non-free)](https://developer.nvidia.com/dli/onlinelabs)
@@ -13,6 +14,7 @@ If you know any good ML/DL ressources or see any broken links please submit a Pu
   - [Intro to Deep Learning by Siraj Raval](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
   - [Coursera Machine Learning *Not Free](https://www.coursera.org/learn/machine-learning)
   - [Coursera Deep Learning *Not Free](https://www.coursera.org/specializations/deep-learning)
+  - [Move 34 - Reinforcement Learning by Siraj Raval](https://www.theschool.ai/courses/move-37-course)
 ## (e)Books
   - [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
   - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
